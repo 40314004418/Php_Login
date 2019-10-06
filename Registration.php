@@ -22,7 +22,7 @@
                     <h3 class="panel-title">Registration</h3>  
                 </div>  
                 <div class="panel-body">  
-                    <form role="form" method="post" action="registration.php">  
+                    <form role="form" method="post" action="Registration.php">  
                         <fieldset>  
                             <div class="form-group">  
                                 <input class="form-control" placeholder="Username" name="name" type="text" autofocus>  
@@ -44,7 +44,7 @@
   
                         </fieldset>  
                     </form>  
-                    <center><b>Already registered ?</b> <br></b><a href="login.php">Login here</a></center><!--for centered text-->  
+                    <center><b>Already registered ?</b> <br></b><a href="Login.php">Login here</a></center><!--for centered text-->  
                 </div>  
             </div>  
         </div>  
