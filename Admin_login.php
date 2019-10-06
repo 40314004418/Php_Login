@@ -60,7 +60,7 @@ if(isset($_POST['admin_login']))//this will tell us what to do if some data has 
                 <div class="panel-body">  
 <div class="alert alert-danger"><?php echo $error; ?></div>
                       
-                    <form role="form" method="post" action="admin_login.php">  
+                    <form role="form" method="post" action="Admin_login.php">  
                         <fieldset>  
                             <div class="form-group"  >  
                                 <input class="form-control" placeholder="Name" name="admin_name" type="text" autofocus>  
