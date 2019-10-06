@@ -23,7 +23,7 @@
 
 
 
-<div class="login"> <a href=Welcome.php>Click </a>to login </div>
+<div class="login"> <a href=Login.php>Click </a>to login </div>
 <div class="login"> <a href=Registration.php>Click </a>to Register </div>
 
 
